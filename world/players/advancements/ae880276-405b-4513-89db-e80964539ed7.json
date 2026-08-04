@@ -64,18 +64,6 @@
     },
     "done": true
   },
-  "vanillatweaks:real_clock": {
-    "criteria": {
-      "tick": "2025-09-17 10:28:59 +0300"
-    },
-    "done": true
-  },
-  "vanillatweaks:coordinates_hud": {
-    "criteria": {
-      "tick": "2025-09-17 10:28:59 +0300"
-    },
-    "done": true
-  },
   "vanillatweaks:root": {
     "criteria": {
       "tick": "2025-09-17 10:28:59 +0300"
@@ -89,12 +77,6 @@
     "done": true
   },
   "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2025-09-17 11:45:20 +0300"
-    },
-    "done": true
-  },
-  "vanillatweaks:painting_picker": {
     "criteria": {
       "tick": "2025-09-17 11:45:20 +0300"
     },
@@ -1047,12 +1029,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-18 20:18:43 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-09-18 20:18:43 +0300"
@@ -1602,12 +1578,6 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-21 17:37:46 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2025-09-21 17:54:50 +0300"
     },
     "done": true
   },
@@ -2169,19 +2139,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_resin_bricks": {
-    "criteria": {
-      "has_resin_brick_slab": "2025-09-22 16:58:18 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-09-22 16:58:28 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_chiseled_copper": {
     "criteria": {
       "has_weathered_cut_copper_slab": "2025-09-22 16:58:28 +0300"
     },
@@ -2208,12 +2166,6 @@
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-09-22 18:19:39 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-22 18:19:39 +0300"
     },
     "done": true
   },
@@ -2679,31 +2631,7 @@
     },
     "done": true
   },
-  "vanillatweaks:graves": {
-    "criteria": {
-      "tick": "2026-02-08 21:41:43 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:chunk_loaders": {
-    "criteria": {
-      "tick": "2026-02-08 21:41:43 +0200"
-    },
-    "done": true
-  },
   "armor_statues:enable": {
-    "criteria": {
-      "tick": "2026-02-08 21:41:43 +0200"
-    },
-    "done": true
-  },
-  "graves:check_death_markers_later_in_tick": {
-    "criteria": {
-      "tick": "2026-02-08 21:41:43 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:xp_management": {
     "criteria": {
       "tick": "2026-02-08 21:41:43 +0200"
     },
@@ -3096,12 +3024,6 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2026-02-10 10:35:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-02-10 10:35:46 +0200"
     },
     "done": true
   },
@@ -4947,12 +4869,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-02-16 21:35:16 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_shelf": {
     "criteria": {
       "has_stripped_oak_log": "2026-02-16 21:35:16 +0200"
@@ -5837,5 +5753,23 @@
     },
     "done": true
   },
-  "DataVersion": 4786
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2026-08-04 08:51:49 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2026-08-04 08:51:49 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2026-08-04 08:51:49 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 4903
 }

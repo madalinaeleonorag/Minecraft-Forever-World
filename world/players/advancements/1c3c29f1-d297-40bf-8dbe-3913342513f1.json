@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "vanillatweaks:painting_picker": {
-    "criteria": {
-      "tick": "2025-09-17 16:37:13 +0300"
-    },
-    "done": true
-  },
   "vanillatweaks:confetti_creepers": {
     "criteria": {
       "tick": "2025-09-17 16:37:13 +0300"
@@ -54,18 +48,6 @@
     "done": true
   },
   "vanillatweaks:villager_death": {
-    "criteria": {
-      "tick": "2025-09-17 16:37:13 +0300"
-    },
-    "done": true
-  },
-  "vanillatweaks:real_clock": {
-    "criteria": {
-      "tick": "2025-09-17 16:37:13 +0300"
-    },
-    "done": true
-  },
-  "vanillatweaks:coordinates_hud": {
     "criteria": {
       "tick": "2025-09-17 16:37:13 +0300"
     },
@@ -479,31 +461,7 @@
     },
     "done": true
   },
-  "vanillatweaks:graves": {
-    "criteria": {
-      "tick": "2026-02-12 16:36:19 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:chunk_loaders": {
-    "criteria": {
-      "tick": "2026-02-12 16:36:19 +0200"
-    },
-    "done": true
-  },
   "armor_statues:enable": {
-    "criteria": {
-      "tick": "2026-02-12 16:36:19 +0200"
-    },
-    "done": true
-  },
-  "graves:check_death_markers_later_in_tick": {
-    "criteria": {
-      "tick": "2026-02-12 16:36:19 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:xp_management": {
     "criteria": {
       "tick": "2026-02-12 16:36:19 +0200"
     },
@@ -5131,12 +5089,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-03-04 17:51:46 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-03-04 17:54:20 +0200"
@@ -5491,5 +5443,29 @@
     },
     "done": true
   },
-  "DataVersion": 4786
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2026-08-04 09:05:36 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2026-08-04 09:05:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-08-04 09:13:58 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2026-08-04 09:05:36 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 4903
 }
