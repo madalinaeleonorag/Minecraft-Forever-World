@@ -5455,15 +5455,15 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2026-08-04 09:13:58 +0300"
-    },
-    "done": true
-  },
   "vanillatweaks:name_colors": {
     "criteria": {
       "tick": "2026-08-04 09:05:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-08-04 09:13:58 +0300"
     },
     "done": true
   },

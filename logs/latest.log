@@ -1,131 +1,45 @@
-[08:47:47] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[08:47:47] [ServerMain/WARN]: resource-pack-id missing, using default of ee9233cd-e19c-3bee-8daf-15534b8568b1
-[08:47:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[08:47:47] [ServerMain/INFO]: Starting upgrade for world "world"
-[08:47:51] [ServerMain/INFO]: Upgrading progress: 100%
-[08:47:51] [ServerMain/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=true]
-[08:47:51] [ServerMain/INFO]: Applying file structure changes for world "world"
-[08:47:51] [ServerMain/INFO]: Moving new hardlinked world to top level
-[08:47:51] [ServerMain/INFO]: Start cleanup
-[08:47:51] [ServerMain/INFO]: Moving out old world folder
-[08:47:51] [ServerMain/INFO]: Moving in new world folder
-[08:47:51] [ServerMain/INFO]: Done applying file structure changes for world "world". Cleaning up outdated data...
-[08:47:52] [ServerMain/INFO]: Upgrade done for world "world"
-[08:47:52] [ServerMain/WARN]: Missing data pack file/afk display v1.1.15 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/armor statues v2.8.21 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/armored elytra v2.0.9 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/back v1.3.15 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/chunk loaders v1.0.16 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/confetti creepers v2.2.16 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/coordinates hud v1.2.16 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/custom nether portals v2.3.18 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/fast leaf decay v2.0.20 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/graves v4.0.5 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/homes v1.5.17 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/multiplayer sleep v2.6.15 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/painting picker v1.1.2 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/real time clock v1.1.15 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/tpa v2.3.15 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/villager death messages v1.2.17 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/villager workstation highlights v1.1.15 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/WARN]: Missing data pack file/xp bottling v1.1.16 (MC 1.21-1.21.11).zip
-[08:47:52] [ServerMain/INFO]: Found new data pack file/afk display v1.1.16 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/armor statues v2.8.22 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/armored elytra v2.0.10 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/back v1.3.16 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/confetti creepers v2.2.17 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/custom nether portals v2.3.19 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/durability ping v1.1.17 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/fast leaf decay v2.0.21 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/homes v1.5.18 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/multiplayer sleep v2.6.16 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/name colors v1.0.14 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/nether portal coords v1.1.16 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/tpa v2.3.16 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/villager death messages v1.2.18 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/villager workstation highlights v1.1.16 (MC 26.1).zip, loading it automatically
-[08:47:52] [ServerMain/INFO]: Found new data pack file/wandering trader announcements v1.0.9 (MC 26.1).zip, loading it automatically
-[08:47:52] [Worker-Main-12/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/villager of type minecraft:loot_table
-[08:47:53] [ServerMain/INFO]: Loaded 1585 recipes
-[08:47:53] [ServerMain/INFO]: Loaded 1785 advancements
-[08:47:53] [Server thread/INFO]: Starting minecraft server version 26.2
-[08:47:53] [Server thread/INFO]: Loading properties
-[08:47:53] [Server thread/INFO]: Default game type: SURVIVAL
-[08:47:53] [Server thread/INFO]: Generating keypair
-[08:47:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:47:53] [Server thread/INFO]: Preparing level "world"
-[08:47:53] [Server thread/INFO]: Loading 75 persistent chunks...
-[08:47:53] [Server thread/INFO]: Preparing spawn area: 11%
-[08:47:54] [Server thread/INFO]: Preparing spawn area: 11%
-[08:47:54] [Server thread/INFO]: Time elapsed: 690 ms
-[08:47:54] [Server thread/INFO]: Done (1.023s)! For help, type "help"
-[08:47:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:47:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:47:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:47:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:47:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:47:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:47:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:48:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:51:43] [User Authenticator #1/INFO]: UUID of player Enowra is ae880276-405b-4513-89db-e80964539ed7
-[08:51:49] [Server thread/WARN]: Ignored advancement 'vanillatweaks:real_clock' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/WARN]: Ignored advancement 'vanillatweaks:coordinates_hud' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/WARN]: Ignored advancement 'vanillatweaks:painting_picker' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/WARN]: Ignored advancement 'vanillatweaks:graves' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/WARN]: Ignored advancement 'vanillatweaks:chunk_loaders' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/WARN]: Ignored advancement 'graves:check_death_markers_later_in_tick' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/WARN]: Ignored advancement 'vanillatweaks:xp_management' in progress file .\world\players\advancements\ae880276-405b-4513-89db-e80964539ed7.json - it doesn't exist anymore?
-[08:51:49] [Server thread/INFO]: Enowra[/192.168.100.117:55357] logged in with entity id 188 at (1999375.234410577, 70.0, 1999952.990979728)
-[08:51:49] [Server thread/INFO]: Enowra joined the game
-[08:53:30] [Server thread/INFO]: [Enowra: Set own game mode to Spectator Mode]
-[08:57:36] [Server thread/INFO]: [Enowra: Teleported Enowra to 0.500000, 86.412799, 0.500000]
-[09:00:13] [Server thread/INFO]: [Enowra: Set own game mode to Creative Mode]
-[09:01:08] [Server thread/INFO]: Villager Villager['Armorer'/3901, l='ServerLevel[world]', x=149.77, y=84.81, z=-34.08] died, message: 'Armorer tried to swim in lava'
-[09:03:28] [Server thread/INFO]: [Enowra: Set own game mode to Spectator Mode]
-[09:03:37] [Server thread/INFO]: [Enowra: Set own game mode to Creative Mode]
-[09:04:31] [Server thread/INFO]: [Enowra: Set own game mode to Survival Mode]
-[09:05:31] [User Authenticator #2/INFO]: UUID of player Zeus_Odin is 1c3c29f1-d297-40bf-8dbe-3913342513f1
-[09:05:36] [Server thread/WARN]: Ignored advancement 'vanillatweaks:painting_picker' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/WARN]: Ignored advancement 'vanillatweaks:real_clock' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/WARN]: Ignored advancement 'vanillatweaks:coordinates_hud' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/WARN]: Ignored advancement 'vanillatweaks:graves' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/WARN]: Ignored advancement 'vanillatweaks:chunk_loaders' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/WARN]: Ignored advancement 'graves:check_death_markers_later_in_tick' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/WARN]: Ignored advancement 'vanillatweaks:xp_management' in progress file .\world\players\advancements\1c3c29f1-d297-40bf-8dbe-3913342513f1.json - it doesn't exist anymore?
-[09:05:36] [Server thread/INFO]: Zeus_Odin[/192.168.100.71:50693] logged in with entity id 7737 at (1999550.2320455036, 86.0, 2000023.8504661326)
-[09:05:36] [Server thread/INFO]: Zeus_Odin joined the game
-[09:05:38] [Server thread/INFO]: [Enowra: Set own game mode to Creative Mode]
-[09:05:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[09:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[09:06:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
-[09:06:54] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to Enowra]
-[09:06:55] [Server thread/WARN]: Zeus_Odin moved too quickly! 0.0,-10.221069856431754,0.0
-[09:07:14] [Server thread/INFO]: [Enowra: Set own game mode to Survival Mode]
-[09:07:57] [Server thread/INFO]: [Enowra: Teleported Enowra to -5099.500000, 71.000000, 4000.500000]
-[09:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[09:08:12] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to -5099.500000, 71.000000, 4000.500000]
-[09:12:16] [Server thread/INFO]: [Zeus_Odin: Set own game mode to Creative Mode]
-[09:12:21] [Server thread/INFO]: [Enowra: Set own game mode to Creative Mode]
-[09:13:58] [Server thread/INFO]: Zeus_Odin has reached the goal [Sky's the Limit]
-[09:14:27] [Server thread/INFO]: [Enowra: Teleported Enowra to 0.500000, 77.066795, 0.500000]
-[09:14:56] [Server thread/INFO]: [Enowra: Teleported Enowra to 2000000.500000, 80.816127, 2000000.500000]
-[09:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[09:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
-[09:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9091ms or 181 ticks behind
-[09:16:39] [Server thread/INFO]: [Enowra: Teleported Enowra to 0.500000, 83.000000, 0.500000]
-[09:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
-[09:17:04] [Server thread/INFO]: [Enowra: Set own game mode to Survival Mode]
-[09:17:08] [Server thread/INFO]: [Zeus_Odin: Set own game mode to Survival Mode]
-[09:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[09:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4125ms or 82 ticks behind
-[09:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[09:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[09:18:32] [Server thread/INFO]: Enowra lost connection: Disconnected
-[09:18:32] [Server thread/INFO]: Enowra left the game
-[09:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[09:20:09] [Server thread/INFO]: [Zeus_Odin: Set own game mode to Creative Mode]
-[09:30:33] [Server thread/INFO]: [Zeus_Odin: Set own game mode to Survival Mode]
-[09:30:50] [Server thread/INFO]: Zeus_Odin lost connection: Disconnected
-[09:30:50] [Server thread/INFO]: Zeus_Odin left the game
-[09:31:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:20:50] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[00:20:50] [ServerMain/WARN]: resource-pack-id missing, using default of ee9233cd-e19c-3bee-8daf-15534b8568b1
+[00:20:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:20:51] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/villager of type minecraft:loot_table
+[00:20:51] [ServerMain/INFO]: Loaded 1585 recipes
+[00:20:51] [ServerMain/INFO]: Loaded 1785 advancements
+[00:20:51] [Server thread/INFO]: Starting minecraft server version 26.2
+[00:20:51] [Server thread/INFO]: Loading properties
+[00:20:51] [Server thread/INFO]: Default game type: SURVIVAL
+[00:20:51] [Server thread/INFO]: Generating keypair
+[00:20:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:20:52] [Server thread/INFO]: Preparing level "world"
+[00:20:52] [Server thread/INFO]: Loading 75 persistent chunks...
+[00:20:52] [Server thread/INFO]: Preparing spawn area: 11%
+[00:20:52] [Server thread/INFO]: Preparing spawn area: 11%
+[00:20:52] [Server thread/INFO]: Time elapsed: 678 ms
+[00:20:52] [Server thread/INFO]: Done (0.952s)! For help, type "help"
+[00:20:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:20:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:20:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:21:06] [User Authenticator #1/INFO]: UUID of player Enowra is ae880276-405b-4513-89db-e80964539ed7
+[00:21:10] [Server thread/INFO]: Enowra[/192.168.100.117:57201] logged in with entity id 308 at (60.18423858673752, 77.0, -79.50008827188918)
+[00:21:10] [Server thread/INFO]: Enowra joined the game
+[00:21:25] [User Authenticator #2/INFO]: UUID of player Zeus_Odin is 1c3c29f1-d297-40bf-8dbe-3913342513f1
+[00:21:28] [Server thread/INFO]: Zeus_Odin[/192.168.100.71:60024] logged in with entity id 1658 at (-5149.317958688975, 71.0, 4009.422753697164)
+[00:21:28] [Server thread/INFO]: Zeus_Odin joined the game
+[00:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[00:21:42] [Server thread/INFO]: [Enowra: Set the weather to clear]
+[00:21:52] [Server thread/INFO]: Enowra lost connection: Disconnected
+[00:21:52] [Server thread/INFO]: Enowra left the game
+[00:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[00:22:29] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to 0.500000, 150.000000, 0.500000]
+[00:26:08] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to 1999461.500000, 83.000000, 1999951.500000]
+[00:36:34] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to 0.500000, 150.000000, 0.500000]
+[00:37:01] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to -5099.500000, 71.000000, 4000.500000]
+[00:43:25] [Server thread/INFO]: [Zeus_Odin: Set own game mode to Creative Mode]
+[00:44:18] [Server thread/INFO]: [Zeus_Odin: Set own game mode to Survival Mode]
+[00:45:50] [Server thread/INFO]: [Zeus_Odin: Teleported Zeus_Odin to 0.500000, 150.000000, 0.500000]
+[00:48:31] [Server thread/INFO]: Zeus_Odin lost connection: Disconnected
+[00:48:31] [Server thread/INFO]: Zeus_Odin left the game
+[00:49:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
